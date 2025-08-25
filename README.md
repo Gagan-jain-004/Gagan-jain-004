@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagan-jain-004&label=Profile%20views&color=0e75b6&style=flat" alt="gagan-jain-004" /> </p>
 
-- 👨‍💻 All of my projects are available at [portfoliowebsitework.vercel.app](https://portfoliowebsitework.vercel.app/)
+- 👨‍💻 All of my projects are available at [gagan-jain-portfolio.vercel.app](https://gagan-jain-portfolio.vercel.app/)
 
 - 📫 How to reach me **gagan.jain0104@gmail.com**
 
