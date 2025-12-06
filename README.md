@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gagan-jain-004&label=Profile%20views&color=0e75b6&style=flat" alt="gagan-jain-004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gagan-jain-004" alt="gagan-jain-004" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [portfoliowebsitework.vercel.app](portfoliowebsitework.vercel.app)
+- 👨‍💻 All of my projects are available at [portfoliowebsitework.vercel.app](https://gagan-jain-portfolio.vercel.app/)
 
 - 📫 How to reach me **gagan.jain0104@gmail.com**
 
