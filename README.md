@@ -1,26 +1,93 @@
-<h1 align="center">Hi 👋, I'm Gagan Jain</h1>
-<h3 align="center">A passionate Web developer</h3>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gagan-jain-004&label=Profile%20views&color=0e75b6&style=flat" alt="gagan-jain-004" /> </p>
-
-
-- 👨‍💻 All of my projects are available at [gaganjain.me](https://gaganjain.me/)
-
-- 📫 How to reach me **gagan.jain0104@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gagan-jain-01abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gagan-jain-01abc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@gagan004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@gagan004" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gagan.praveen004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gagan.praveen004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gj004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gj004" height="30" width="40" /></a>
+<!-- Profile badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gagan-jain-004&label=Profile%20views&color=0e75b6&style=flat" alt="gagan-jain-004" />
+  <a href="https://github.com/gagan-jain-004">
+    <img src="https://img.shields.io/github/followers/gagan-jain-004?label=Followers&style=flat&color=0e75b6" alt="followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<!--
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gagan-jain-004&show_icons=true&locale=en&layout=compact" alt="gagan-jain-004" /></p> -->
+<!-- Intro -->
+<h1 align="center">👋 Hey, I'm <span style="color:#2dd4bf;">Gagan Jain</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Problem Solver</h3>
 
+---
+
+### 🌟 About Me
+
+I’m a passionate full-stack developer focused on building scalable web applications and solving real-world problems.  
+I enjoy working across the stack — from crafting responsive UIs to designing efficient backend systems.  
+My goal is to create products that are fast, reliable, and impactful.
+
+---
+
+### ⚡ What I Do
+
+- **💻 Full-Stack Development:**  
+  Build modern web applications using MERN stack and Next.js.
+
+- **⚙️ Backend & APIs:**  
+  Design REST APIs, authentication systems (JWT), and scalable backend logic.
+
+- **🎨 Frontend Development:**  
+  Create responsive and interactive UIs using React, Tailwind CSS, and TypeScript.
+
+- **📊 Problem Solving & DSA:**  
+  Active on LeetCode, Codeforces & HackerRank, strengthening problem-solving skills.
+
+---
+
+### 🌐 Portfolio
+
+- 👨‍💻 Check out my work: **https://gaganjain.me/**
+
+---
+
+### 📫 Contact Me
+
+- ✉️ Email: **gagan.jain0104@gmail.com**
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/gagan-jain-01abc" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="30"/>
+</a>
+<a href="https://www.hackerrank.com/@gagan004" target="blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white" height="30"/>
+</a>
+<a href="https://codeforces.com/profile/gagan.praveen004" target="blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white" height="30"/>
+</a>
+<a href="https://www.leetcode.com/gj004" target="blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" height="30"/>
+</a>
+</p>
+
+---
+
+### 💥 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,linux,git,tailwind,bootstrap,postman,bash" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+<p align="center">
+  <b>“Code. Build. Break. Learn. Repeat.”</b>
+</p>
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer" width="100%"/>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagan-jain-004&show_icons=true&locale=en" alt="gagan-jain-004" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan-jain-004&" alt="gagan-jain-004" /></p>  -->
