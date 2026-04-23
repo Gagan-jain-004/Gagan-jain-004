@@ -11,31 +11,7 @@
 
 <!-- Intro -->
 <h1 align="center">👋 Hey, I'm <span style="color:#2dd4bf;">Gagan Jain</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Problem Solver</h3>
-
----
-
-### 🌟 About Me
-
-I’m a passionate full-stack developer focused on building scalable web applications and solving real-world problems.  
-I enjoy working across the stack — from crafting responsive UIs to designing efficient backend systems.  
-My goal is to create products that are fast, reliable, and impactful.
-
----
-
-### ⚡ What I Do
-
-- **💻 Full-Stack Development:**  
-  Build modern web applications using MERN stack and Next.js.
-
-- **⚙️ Backend & APIs:**  
-  Design REST APIs, authentication systems (JWT), and scalable backend logic.
-
-- **🎨 Frontend Development:**  
-  Create responsive and interactive UIs using React, Tailwind CSS, and TypeScript.
-
-- **📊 Problem Solving & DSA:**  
-  Active on LeetCode, Codeforces & HackerRank, strengthening problem-solving skills.
+<h3 align="center">🚀 Full-Stack Developer | Problem Solver</h3>
 
 ---
 
@@ -74,14 +50,6 @@ My goal is to create products that are fast, reliable, and impactful.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,linux,git,tailwind,bootstrap,postman,bash" />
-</p>
-
----
-
-### ⚡ Fun Fact
-
-<p align="center">
-  <b>“Code. Build. Break. Learn. Repeat.”</b>
 </p>
 
 ---
