@@ -11,7 +11,7 @@
 
 <!-- Intro -->
 <h1 align="center">👋 Hey, I'm <span style="color:#2dd4bf;">Gagan Jain</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack & Genai Engineer</h3>
 
 ---
 
