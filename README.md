@@ -17,7 +17,7 @@
 
 ### 🌐 Portfolio
 
-- 👨‍💻 Check out my work: **https://gaganjain.me/**
+- 👨‍💻 Check out my work: **https://gaganjain.me**
 
 ---
 
